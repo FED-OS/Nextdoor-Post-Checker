@@ -1,3 +1,4 @@
+<img width="1632" height="2176" alt="blocktrust_pet_walk_alert" src="https://github.com/user-attachments/assets/57e352c3-094b-4096-9761-a7c123166b32" />
 # BlockTrust – Your Neighborhood Hub
 
 **BlockTrust** is a community platform for neighbors to connect, share, and support each other. Built as a free-speech alternative to Nextdoor.
